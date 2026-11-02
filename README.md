@@ -1,29 +1,66 @@
-# Hi, I'm Hammad 👋
+# 👋 Hi, I'm Hammad
 
-### AI Automation Expert | AI Engineer | AI Developer
+### 🚀 AI Automation Expert | AI Engineer | AI Developer
 
-I build intelligent AI automation solutions, AI agents, workflows, and custom AI-powered applications that solve real-world problems and streamline business operations.
+Building intelligent AI agents, automation workflows, and AI-powered applications to solve real-world problems.
 
-## About Me
+---
 
-- 🔭 I'm currently working on **AI Automation, AI Agents, and intelligent workflow solutions.**
-- 👯 I'm looking to collaborate on **AI-powered projects, automation systems, and open-source initiatives.**
-- 🤝 I'm looking for help with **building scalable AI solutions, advanced RAG systems, and AI integrations.**
-- 🌱 I'm currently learning **AI Engineering, Agentic AI, RAG, LLMs, and advanced n8n automation.**
-- 💬 Ask me about **n8n, AI Agents, Workflow Automation, Google Gemini, RAG, and AI Development.**
-- ⚡ Fun fact: **I love turning complex manual tasks into smart, automated AI-powered solutions.**
+## 🧑‍💻 About Me
 
-<!--
-**aiwithhammad2026-arch/aiwithhammad2026-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Building intelligent AI automation solutions and AI agents.
+- 🤝 Open to collaborating on AI projects and innovative automation solutions.
+- 🌱 Exploring Agentic AI, RAG, LLMs, and AI Engineering.
+- 💬 Ask me about n8n, AI Agents, RAG, Gemini, and Workflow Automation.
+- ⚡ Turning complex manual processes into intelligent automated systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+**AI & Automation**
+- n8n
+- Google Gemini
+- LangChain
+- RAG & Vector Databases
+- AI Agents
+
+**Development**
+- Python
+- JavaScript
+- FastAPI
+- REST APIs
+- SQLite
+
+**Tools & Platforms**
+- Git & GitHub
+- Qdrant
+- VS Code
+- Docker
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| 🤖 Enterprise RAG Assistant | AI-powered knowledge assistant with document retrieval |
+| ⚡ AI Proposal Generator | Automated business proposal generation using n8n |
+| 🧠 AI CRM Agent | Intelligent AI assistant for customer data |
+| 📊 Service Monitoring Dashboard | Real-time service monitoring and incident management |
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aiwithhammad2026-arch&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aiwithhammad2026-arch&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, AI engineers, and people building innovative technology.
+
+**Let's build something intelligent together!** 🚀
